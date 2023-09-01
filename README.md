@@ -4,6 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=25&pause=1000&color=1b78b2&background=F2FF1400&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer,;Active+Learner/Researcher,;Detalied+and+Task+Oriented,;Love+to+learn+new+technologies+...,;"></a>
 </p>
 
+<img align="right" alt="Coding" width ="400" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/braxton-walters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braxton-walters" height="30" width="40" /></a>
